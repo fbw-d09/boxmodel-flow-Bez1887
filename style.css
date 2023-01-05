@@ -1,3 +1,63 @@
 .esports-info {
   display: inline-block;
+  border: 20px solid red;
+  border-left: 20px solid chocolate;
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  overflow-x: scroll;
+  overflow-y: scroll;
+  
+  
+  
 }
+
+
+
+.esports-tournaments {
+  border: 25px solid blue;
+  width: 91%;
+  
+}
+
+.dota-tournament-img {
+  
+  float: left;
+  width: 300px;
+}
+
+.esports-info-img {
+  width: 50%;
+}
+
+article {
+  
+  border: 1px solid purple;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/*   display: inline-block;
+  border: 5px solid black;
+  margin: auto;
+  width: 400px;
+  height: 400px;
+  overflow-y: scroll;
+  text-align: center; *
+  
+  
+  section 
+{
+  margin-top: 20px;
+  overflow: hidden;
+  padding: 0;
+  margin: auto;
+  width: 720px;
+
+}
+
+  
+  
+  
+  
+  /
